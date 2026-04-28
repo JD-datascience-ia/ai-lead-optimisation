@@ -1,6 +1,7 @@
 from src.preprocessing import load_data
 from src.scoring import rule_score
 from src.ml_model import train_model
+from src.roi_simulation import simulate_roi
 import pandas as pd
 
 path = "data/simulated_leads_nova_lead.csv"
@@ -23,3 +24,5 @@ X = X.reindex(columns=features, fill_value=0)
 df["ml_score"] = model.predict_proba(X)[:, 1] * 100
 
 print(df[["rule_score", "ml_score", "converted"]].head(10))
+
+df = simulate_roi(df)
