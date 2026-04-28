@@ -1,0 +1,501 @@
+lead_id,source,intent,message,response_delay_min,converted
+1,google_ads,high,je suis intéressé on peut parler ?,90.76,0
+2,google_ads,low,info stp,120.67,0
+3,instagram,low,curieux,76.81,0
+4,facebook_ads,high,je veux commencer rapidement,21.77,0
+5,google_ads,low,info stp,30.64,1
+6,organic,low,curieux,92.28,0
+7,google_ads,medium,ça coûte combien ?,117.94,0
+8,google_ads,low,je regarde juste,202.24,0
+9,facebook_ads,low,info stp,68.98,0
+10,referral,low,je regarde juste,17.97,0
+11,facebook_ads,medium,plus d'infos,50.32,1
+12,referral,medium,plus d'infos,135.13,0
+13,organic,low,info stp,44.14,0
+14,referral,medium,ça coûte combien ?,105.87,0
+15,facebook_ads,medium,comment ça marche ?,21.08,1
+16,facebook_ads,medium,comment ça marche ?,13.29,1
+17,referral,medium,ça coûte combien ?,93.69,0
+18,organic,medium,ça coûte combien ?,113.84,0
+19,facebook_ads,low,curieux,23.6,0
+20,instagram,high,je veux commencer rapidement,28.97,0
+21,referral,medium,ça coûte combien ?,88.43,0
+22,google_ads,medium,plus d'infos,34.72,1
+23,referral,medium,comment ça marche ?,42.63,0
+24,facebook_ads,medium,ça coûte combien ?,13.62,0
+25,google_ads,medium,plus d'infos,58.75,0
+26,facebook_ads,medium,plus d'infos,128.88,0
+27,facebook_ads,low,curieux,7.0,0
+28,google_ads,high,je veux commencer rapidement,21.81,1
+29,google_ads,medium,comment ça marche ?,7.66,1
+30,organic,low,je regarde juste,31.03,1
+31,facebook_ads,low,info stp,41.26,0
+32,facebook_ads,low,je regarde juste,225.34,0
+33,facebook_ads,low,je regarde juste,16.43,0
+34,google_ads,high,je suis intéressé on peut parler ?,66.91,0
+35,facebook_ads,medium,comment ça marche ?,60.03,0
+36,google_ads,low,je regarde juste,9.8,0
+37,instagram,high,je suis intéressé on peut parler ?,14.93,0
+38,referral,low,info stp,11.5,0
+39,google_ads,high,je veux commencer rapidement,67.56,0
+40,facebook_ads,medium,plus d'infos,17.9,0
+41,referral,medium,comment ça marche ?,16.61,1
+42,referral,high,je suis intéressé on peut parler ?,12.55,1
+43,instagram,high,prix et dispo ?,90.81,0
+44,facebook_ads,low,curieux,66.34,0
+45,google_ads,high,je veux commencer rapidement,0.3,1
+46,google_ads,medium,comment ça marche ?,15.24,0
+47,facebook_ads,low,info stp,76.58,0
+48,google_ads,medium,plus d'infos,18.49,1
+49,organic,low,curieux,141.93,0
+50,google_ads,medium,ça coûte combien ?,40.7,1
+51,instagram,low,info stp,87.8,0
+52,organic,medium,plus d'infos,147.81,0
+53,facebook_ads,high,je veux commencer rapidement,48.28,0
+54,organic,low,je regarde juste,29.18,0
+55,facebook_ads,low,je regarde juste,30.12,0
+56,organic,low,curieux,57.27,0
+57,facebook_ads,medium,plus d'infos,23.37,0
+58,facebook_ads,medium,ça coûte combien ?,20.85,0
+59,referral,high,je veux commencer rapidement,5.11,1
+60,instagram,low,curieux,95.32,0
+61,facebook_ads,low,curieux,34.63,0
+62,facebook_ads,low,curieux,20.26,0
+63,facebook_ads,low,curieux,21.68,0
+64,facebook_ads,high,je veux commencer rapidement,36.67,0
+65,facebook_ads,medium,ça coûte combien ?,60.87,0
+66,organic,medium,plus d'infos,2.52,0
+67,google_ads,medium,plus d'infos,1.54,0
+68,referral,medium,comment ça marche ?,3.6,0
+69,google_ads,low,curieux,75.23,0
+70,facebook_ads,high,je suis intéressé on peut parler ?,64.22,0
+71,instagram,low,curieux,26.4,0
+72,facebook_ads,low,je regarde juste,5.93,0
+73,organic,low,curieux,86.47,0
+74,facebook_ads,medium,comment ça marche ?,30.5,0
+75,instagram,low,info stp,0.93,0
+76,google_ads,medium,comment ça marche ?,10.67,1
+77,instagram,low,info stp,96.85,0
+78,google_ads,low,je regarde juste,47.33,0
+79,google_ads,high,prix et dispo ?,13.89,1
+80,facebook_ads,low,je regarde juste,5.95,0
+81,facebook_ads,low,curieux,68.67,0
+82,facebook_ads,medium,plus d'infos,71.59,0
+83,referral,medium,comment ça marche ?,205.74,0
+84,google_ads,medium,ça coûte combien ?,279.42,0
+85,google_ads,medium,ça coûte combien ?,160.21,0
+86,google_ads,medium,comment ça marche ?,16.33,0
+87,google_ads,medium,comment ça marche ?,23.14,0
+88,google_ads,low,je regarde juste,112.7,0
+89,organic,medium,ça coûte combien ?,40.76,1
+90,facebook_ads,medium,ça coûte combien ?,14.35,0
+91,instagram,low,je regarde juste,40.92,1
+92,google_ads,medium,ça coûte combien ?,47.37,0
+93,organic,medium,plus d'infos,57.77,1
+94,facebook_ads,medium,plus d'infos,30.32,0
+95,facebook_ads,medium,plus d'infos,258.93,0
+96,google_ads,high,je suis intéressé on peut parler ?,142.96,0
+97,google_ads,medium,ça coûte combien ?,90.07,0
+98,google_ads,high,je suis intéressé on peut parler ?,34.2,1
+99,google_ads,medium,comment ça marche ?,103.83,0
+100,instagram,low,je regarde juste,28.19,0
+101,referral,low,curieux,97.2,0
+102,google_ads,low,curieux,155.13,0
+103,facebook_ads,medium,comment ça marche ?,44.43,0
+104,instagram,medium,comment ça marche ?,71.63,0
+105,instagram,high,prix et dispo ?,180.24,0
+106,google_ads,medium,plus d'infos,12.5,0
+107,google_ads,medium,comment ça marche ?,219.9,0
+108,instagram,medium,comment ça marche ?,31.78,0
+109,facebook_ads,low,info stp,103.74,0
+110,instagram,medium,plus d'infos,5.18,0
+111,google_ads,low,je regarde juste,90.2,0
+112,organic,low,curieux,28.77,0
+113,referral,high,prix et dispo ?,2.25,1
+114,facebook_ads,low,je regarde juste,45.86,0
+115,organic,medium,comment ça marche ?,173.77,0
+116,facebook_ads,medium,plus d'infos,17.38,0
+117,facebook_ads,high,prix et dispo ?,26.61,1
+118,instagram,medium,plus d'infos,106.8,0
+119,referral,high,prix et dispo ?,125.57,0
+120,facebook_ads,low,info stp,92.13,0
+121,referral,high,prix et dispo ?,25.9,0
+122,google_ads,medium,ça coûte combien ?,77.76,0
+123,google_ads,high,prix et dispo ?,58.39,0
+124,organic,low,je regarde juste,40.65,0
+125,google_ads,high,je veux commencer rapidement,25.61,1
+126,google_ads,low,info stp,8.28,1
+127,facebook_ads,low,je regarde juste,136.26,0
+128,instagram,low,curieux,15.2,0
+129,facebook_ads,low,curieux,5.57,1
+130,google_ads,low,curieux,8.27,0
+131,facebook_ads,low,info stp,59.32,1
+132,referral,high,je veux commencer rapidement,0.16,0
+133,facebook_ads,medium,ça coûte combien ?,46.15,0
+134,facebook_ads,medium,plus d'infos,37.25,0
+135,facebook_ads,low,info stp,69.72,0
+136,instagram,low,curieux,35.59,0
+137,facebook_ads,low,je regarde juste,12.07,0
+138,referral,low,curieux,7.65,0
+139,google_ads,medium,ça coûte combien ?,62.79,0
+140,google_ads,medium,ça coûte combien ?,82.09,0
+141,facebook_ads,low,curieux,137.94,0
+142,facebook_ads,medium,plus d'infos,55.85,1
+143,facebook_ads,low,info stp,40.14,0
+144,facebook_ads,high,je suis intéressé on peut parler ?,110.83,1
+145,facebook_ads,medium,ça coûte combien ?,136.15,0
+146,organic,low,curieux,17.9,0
+147,instagram,high,je suis intéressé on peut parler ?,45.95,0
+148,referral,low,curieux,23.47,0
+149,google_ads,low,info stp,73.7,0
+150,facebook_ads,medium,ça coûte combien ?,39.37,0
+151,facebook_ads,low,curieux,47.72,0
+152,facebook_ads,medium,comment ça marche ?,8.97,1
+153,facebook_ads,medium,plus d'infos,31.85,0
+154,organic,high,prix et dispo ?,7.96,0
+155,organic,low,info stp,156.59,0
+156,facebook_ads,medium,ça coûte combien ?,95.16,0
+157,facebook_ads,low,je regarde juste,16.13,0
+158,organic,low,curieux,29.9,0
+159,google_ads,low,info stp,58.71,0
+160,google_ads,medium,comment ça marche ?,137.9,0
+161,google_ads,high,je suis intéressé on peut parler ?,46.96,1
+162,facebook_ads,medium,plus d'infos,9.0,0
+163,instagram,medium,ça coûte combien ?,51.08,0
+164,instagram,medium,ça coûte combien ?,81.74,1
+165,google_ads,medium,ça coûte combien ?,84.3,1
+166,google_ads,low,je regarde juste,8.18,0
+167,instagram,low,info stp,31.55,0
+168,facebook_ads,medium,plus d'infos,17.41,0
+169,facebook_ads,high,prix et dispo ?,15.48,1
+170,facebook_ads,medium,plus d'infos,52.95,0
+171,instagram,low,info stp,161.4,0
+172,instagram,high,je suis intéressé on peut parler ?,9.93,0
+173,instagram,medium,comment ça marche ?,6.61,0
+174,organic,low,je regarde juste,251.35,0
+175,facebook_ads,high,je suis intéressé on peut parler ?,22.39,1
+176,instagram,low,je regarde juste,24.5,0
+177,facebook_ads,low,info stp,32.12,0
+178,organic,medium,ça coûte combien ?,80.25,0
+179,facebook_ads,medium,ça coûte combien ?,17.12,0
+180,facebook_ads,low,je regarde juste,27.0,0
+181,instagram,low,je regarde juste,43.44,0
+182,google_ads,medium,plus d'infos,5.35,0
+183,google_ads,medium,comment ça marche ?,30.38,0
+184,instagram,low,curieux,12.69,1
+185,google_ads,medium,plus d'infos,20.89,0
+186,google_ads,medium,comment ça marche ?,30.73,0
+187,facebook_ads,low,je regarde juste,4.71,0
+188,facebook_ads,high,prix et dispo ?,31.53,1
+189,facebook_ads,medium,comment ça marche ?,31.45,0
+190,facebook_ads,low,info stp,1.19,1
+191,instagram,low,je regarde juste,48.81,0
+192,referral,high,prix et dispo ?,106.4,0
+193,instagram,low,info stp,23.49,1
+194,instagram,medium,comment ça marche ?,1.61,1
+195,google_ads,medium,plus d'infos,144.89,0
+196,facebook_ads,high,je suis intéressé on peut parler ?,53.54,1
+197,instagram,medium,plus d'infos,27.04,0
+198,facebook_ads,high,je veux commencer rapidement,121.71,0
+199,referral,medium,comment ça marche ?,39.79,0
+200,instagram,medium,comment ça marche ?,17.9,1
+201,referral,high,prix et dispo ?,138.5,0
+202,instagram,high,je veux commencer rapidement,101.26,0
+203,facebook_ads,medium,plus d'infos,106.23,0
+204,facebook_ads,low,je regarde juste,18.6,0
+205,facebook_ads,medium,comment ça marche ?,11.57,0
+206,google_ads,low,curieux,32.89,0
+207,organic,low,je regarde juste,55.45,0
+208,google_ads,low,je regarde juste,76.71,0
+209,organic,low,curieux,8.7,0
+210,facebook_ads,medium,ça coûte combien ?,54.24,1
+211,google_ads,medium,plus d'infos,58.58,0
+212,facebook_ads,low,je regarde juste,41.05,0
+213,google_ads,low,info stp,4.86,1
+214,organic,low,info stp,22.66,0
+215,organic,medium,comment ça marche ?,35.44,1
+216,google_ads,high,je suis intéressé on peut parler ?,98.57,0
+217,instagram,high,je veux commencer rapidement,140.21,0
+218,instagram,low,curieux,2.41,0
+219,organic,low,je regarde juste,38.46,0
+220,facebook_ads,medium,ça coûte combien ?,154.93,0
+221,organic,medium,plus d'infos,3.39,0
+222,google_ads,medium,plus d'infos,54.42,1
+223,facebook_ads,low,je regarde juste,45.34,0
+224,google_ads,medium,comment ça marche ?,46.38,0
+225,instagram,medium,comment ça marche ?,57.41,1
+226,facebook_ads,high,prix et dispo ?,0.01,1
+227,google_ads,high,je suis intéressé on peut parler ?,370.93,0
+228,instagram,medium,comment ça marche ?,39.21,0
+229,facebook_ads,low,curieux,32.45,0
+230,instagram,low,info stp,37.79,0
+231,referral,medium,comment ça marche ?,2.58,1
+232,organic,medium,comment ça marche ?,29.82,1
+233,organic,medium,comment ça marche ?,5.62,0
+234,referral,high,je suis intéressé on peut parler ?,140.43,0
+235,instagram,low,je regarde juste,62.93,0
+236,google_ads,low,curieux,29.08,1
+237,organic,high,je veux commencer rapidement,3.57,0
+238,referral,high,prix et dispo ?,44.67,1
+239,google_ads,medium,comment ça marche ?,10.03,0
+240,facebook_ads,low,info stp,2.13,0
+241,referral,medium,ça coûte combien ?,19.13,0
+242,facebook_ads,high,prix et dispo ?,99.49,0
+243,google_ads,low,info stp,0.31,0
+244,facebook_ads,medium,comment ça marche ?,14.92,0
+245,facebook_ads,high,je veux commencer rapidement,39.3,0
+246,referral,low,curieux,47.09,0
+247,instagram,medium,comment ça marche ?,10.27,1
+248,facebook_ads,low,je regarde juste,68.39,0
+249,instagram,low,info stp,195.14,0
+250,referral,low,info stp,15.57,0
+251,facebook_ads,medium,comment ça marche ?,42.49,1
+252,facebook_ads,medium,comment ça marche ?,49.24,1
+253,google_ads,low,je regarde juste,90.81,0
+254,instagram,medium,plus d'infos,25.1,0
+255,organic,low,curieux,176.59,0
+256,instagram,medium,plus d'infos,25.47,0
+257,facebook_ads,high,je suis intéressé on peut parler ?,208.19,0
+258,facebook_ads,medium,ça coûte combien ?,4.07,0
+259,google_ads,high,je suis intéressé on peut parler ?,68.99,0
+260,facebook_ads,high,je veux commencer rapidement,6.47,0
+261,google_ads,high,je suis intéressé on peut parler ?,14.97,1
+262,instagram,medium,ça coûte combien ?,121.52,0
+263,facebook_ads,medium,ça coûte combien ?,32.66,0
+264,google_ads,low,info stp,22.43,0
+265,instagram,medium,ça coûte combien ?,1.9,0
+266,google_ads,high,je suis intéressé on peut parler ?,206.88,1
+267,referral,medium,ça coûte combien ?,36.27,0
+268,facebook_ads,medium,comment ça marche ?,145.71,0
+269,facebook_ads,medium,plus d'infos,7.49,1
+270,instagram,medium,plus d'infos,15.34,1
+271,instagram,low,curieux,95.84,0
+272,google_ads,low,curieux,68.45,0
+273,organic,medium,ça coûte combien ?,71.24,0
+274,instagram,low,curieux,82.98,0
+275,facebook_ads,medium,ça coûte combien ?,41.46,0
+276,instagram,medium,plus d'infos,23.71,0
+277,facebook_ads,low,je regarde juste,104.41,0
+278,facebook_ads,high,prix et dispo ?,70.17,0
+279,facebook_ads,low,je regarde juste,181.63,0
+280,referral,medium,comment ça marche ?,3.2,0
+281,instagram,high,prix et dispo ?,58.9,0
+282,instagram,medium,ça coûte combien ?,135.12,0
+283,referral,medium,ça coûte combien ?,2.5,1
+284,google_ads,medium,ça coûte combien ?,63.04,0
+285,instagram,low,curieux,24.65,0
+286,instagram,medium,ça coûte combien ?,10.58,1
+287,instagram,low,je regarde juste,40.79,1
+288,google_ads,low,curieux,1.87,0
+289,google_ads,high,je suis intéressé on peut parler ?,32.26,0
+290,instagram,medium,plus d'infos,263.64,1
+291,referral,medium,plus d'infos,77.52,0
+292,referral,high,prix et dispo ?,63.85,0
+293,facebook_ads,low,info stp,58.53,0
+294,instagram,low,curieux,11.88,0
+295,organic,low,je regarde juste,4.3,0
+296,facebook_ads,medium,plus d'infos,43.39,0
+297,google_ads,low,info stp,22.45,0
+298,referral,low,je regarde juste,89.09,0
+299,organic,medium,ça coûte combien ?,129.1,0
+300,facebook_ads,medium,plus d'infos,9.45,0
+301,google_ads,high,je veux commencer rapidement,10.97,1
+302,facebook_ads,medium,comment ça marche ?,45.75,0
+303,instagram,medium,ça coûte combien ?,121.62,0
+304,facebook_ads,low,curieux,7.87,0
+305,facebook_ads,medium,ça coûte combien ?,36.11,0
+306,facebook_ads,medium,plus d'infos,69.93,0
+307,google_ads,medium,plus d'infos,181.96,0
+308,referral,medium,ça coûte combien ?,44.25,0
+309,google_ads,low,curieux,22.08,0
+310,facebook_ads,medium,plus d'infos,12.52,0
+311,facebook_ads,low,info stp,11.7,0
+312,referral,high,prix et dispo ?,1.06,1
+313,referral,high,je veux commencer rapidement,1.85,0
+314,instagram,medium,ça coûte combien ?,169.69,0
+315,instagram,medium,plus d'infos,64.35,0
+316,facebook_ads,high,je veux commencer rapidement,300.67,0
+317,facebook_ads,low,info stp,126.48,0
+318,facebook_ads,medium,plus d'infos,138.99,0
+319,facebook_ads,high,je veux commencer rapidement,7.68,1
+320,facebook_ads,low,curieux,30.27,0
+321,google_ads,medium,comment ça marche ?,47.34,0
+322,facebook_ads,medium,plus d'infos,61.73,0
+323,google_ads,medium,plus d'infos,39.14,1
+324,facebook_ads,low,curieux,44.87,0
+325,google_ads,low,info stp,100.59,0
+326,organic,low,info stp,33.82,0
+327,facebook_ads,high,je suis intéressé on peut parler ?,28.69,1
+328,google_ads,low,curieux,39.92,0
+329,facebook_ads,low,info stp,45.59,0
+330,facebook_ads,medium,plus d'infos,19.1,0
+331,facebook_ads,low,info stp,117.72,0
+332,facebook_ads,low,je regarde juste,50.26,0
+333,organic,medium,ça coûte combien ?,101.49,0
+334,google_ads,low,je regarde juste,55.22,0
+335,referral,low,je regarde juste,62.41,0
+336,google_ads,high,je veux commencer rapidement,16.22,0
+337,facebook_ads,high,je suis intéressé on peut parler ?,66.08,1
+338,instagram,medium,plus d'infos,9.96,1
+339,referral,medium,comment ça marche ?,6.04,1
+340,instagram,medium,ça coûte combien ?,15.83,0
+341,google_ads,medium,plus d'infos,19.26,0
+342,instagram,medium,comment ça marche ?,75.87,0
+343,organic,low,info stp,55.46,0
+344,organic,medium,comment ça marche ?,134.77,0
+345,facebook_ads,low,je regarde juste,57.61,0
+346,referral,medium,ça coûte combien ?,61.33,0
+347,google_ads,medium,comment ça marche ?,36.62,1
+348,facebook_ads,low,curieux,48.96,0
+349,google_ads,low,curieux,189.67,0
+350,instagram,low,curieux,6.1,0
+351,instagram,low,info stp,157.18,0
+352,google_ads,low,je regarde juste,80.18,0
+353,facebook_ads,medium,plus d'infos,17.83,0
+354,referral,medium,plus d'infos,10.41,1
+355,facebook_ads,low,je regarde juste,26.79,1
+356,organic,medium,ça coûte combien ?,104.68,0
+357,organic,high,prix et dispo ?,151.09,0
+358,organic,high,prix et dispo ?,41.73,1
+359,google_ads,medium,plus d'infos,126.21,0
+360,referral,medium,plus d'infos,5.06,0
+361,facebook_ads,medium,plus d'infos,189.25,0
+362,organic,medium,comment ça marche ?,118.84,0
+363,google_ads,medium,plus d'infos,106.08,0
+364,organic,high,je veux commencer rapidement,27.49,1
+365,facebook_ads,low,je regarde juste,47.85,0
+366,google_ads,low,curieux,125.3,0
+367,referral,low,info stp,57.99,0
+368,facebook_ads,low,info stp,12.78,0
+369,google_ads,medium,ça coûte combien ?,71.25,0
+370,facebook_ads,low,je regarde juste,91.59,0
+371,facebook_ads,medium,comment ça marche ?,42.73,0
+372,referral,medium,comment ça marche ?,58.67,0
+373,google_ads,low,info stp,35.85,0
+374,google_ads,medium,plus d'infos,11.68,0
+375,organic,low,curieux,39.39,1
+376,facebook_ads,medium,plus d'infos,12.62,0
+377,facebook_ads,high,je veux commencer rapidement,223.47,0
+378,organic,medium,ça coûte combien ?,18.54,0
+379,google_ads,low,je regarde juste,40.19,0
+380,facebook_ads,medium,ça coûte combien ?,28.29,0
+381,google_ads,medium,comment ça marche ?,8.57,1
+382,instagram,high,prix et dispo ?,34.53,1
+383,referral,low,je regarde juste,104.62,0
+384,google_ads,medium,comment ça marche ?,57.1,1
+385,google_ads,low,je regarde juste,35.14,1
+386,facebook_ads,medium,comment ça marche ?,4.49,1
+387,facebook_ads,high,je veux commencer rapidement,29.42,0
+388,organic,high,je suis intéressé on peut parler ?,64.97,1
+389,facebook_ads,low,curieux,106.51,0
+390,google_ads,low,je regarde juste,21.01,0
+391,instagram,low,curieux,0.63,0
+392,facebook_ads,low,je regarde juste,45.34,1
+393,organic,medium,ça coûte combien ?,234.63,0
+394,google_ads,medium,plus d'infos,8.22,1
+395,organic,low,je regarde juste,28.3,0
+396,google_ads,low,curieux,158.13,0
+397,google_ads,low,je regarde juste,20.2,0
+398,referral,high,je veux commencer rapidement,47.12,0
+399,facebook_ads,high,prix et dispo ?,78.23,0
+400,instagram,low,curieux,83.95,0
+401,google_ads,medium,plus d'infos,8.48,0
+402,referral,low,info stp,9.8,0
+403,google_ads,medium,comment ça marche ?,42.6,0
+404,google_ads,medium,ça coûte combien ?,51.65,0
+405,google_ads,low,curieux,0.56,0
+406,instagram,high,je suis intéressé on peut parler ?,30.8,0
+407,facebook_ads,medium,plus d'infos,57.42,1
+408,google_ads,medium,plus d'infos,113.05,0
+409,referral,low,je regarde juste,190.31,0
+410,facebook_ads,low,info stp,38.13,0
+411,facebook_ads,low,curieux,130.4,0
+412,google_ads,medium,ça coûte combien ?,0.19,0
+413,google_ads,medium,comment ça marche ?,53.23,0
+414,instagram,low,curieux,49.46,0
+415,instagram,medium,plus d'infos,55.3,1
+416,facebook_ads,medium,ça coûte combien ?,3.62,1
+417,instagram,medium,ça coûte combien ?,104.62,0
+418,google_ads,low,je regarde juste,34.15,1
+419,facebook_ads,medium,ça coûte combien ?,87.3,0
+420,facebook_ads,low,curieux,60.67,0
+421,facebook_ads,medium,plus d'infos,82.51,0
+422,organic,low,je regarde juste,233.67,0
+423,instagram,medium,plus d'infos,19.14,0
+424,facebook_ads,high,prix et dispo ?,114.93,1
+425,google_ads,medium,comment ça marche ?,34.27,0
+426,instagram,medium,plus d'infos,78.1,0
+427,google_ads,medium,plus d'infos,3.54,1
+428,facebook_ads,low,je regarde juste,188.26,0
+429,facebook_ads,low,info stp,17.02,0
+430,facebook_ads,low,curieux,33.61,0
+431,facebook_ads,low,info stp,3.88,0
+432,facebook_ads,medium,comment ça marche ?,88.67,1
+433,facebook_ads,medium,ça coûte combien ?,198.45,0
+434,organic,low,curieux,78.74,0
+435,facebook_ads,medium,plus d'infos,12.73,0
+436,facebook_ads,high,je veux commencer rapidement,12.13,1
+437,instagram,medium,comment ça marche ?,114.07,0
+438,google_ads,low,curieux,31.05,0
+439,instagram,medium,plus d'infos,5.12,0
+440,google_ads,low,curieux,65.47,0
+441,facebook_ads,high,je suis intéressé on peut parler ?,63.16,0
+442,facebook_ads,medium,ça coûte combien ?,36.89,1
+443,instagram,low,info stp,123.41,0
+444,instagram,medium,ça coûte combien ?,13.76,0
+445,referral,high,je suis intéressé on peut parler ?,175.84,0
+446,instagram,medium,plus d'infos,4.05,0
+447,organic,medium,ça coûte combien ?,6.69,0
+448,referral,low,info stp,34.9,0
+449,facebook_ads,low,je regarde juste,51.71,0
+450,instagram,low,curieux,45.69,0
+451,instagram,medium,ça coûte combien ?,57.03,0
+452,referral,low,curieux,9.1,0
+453,facebook_ads,high,je suis intéressé on peut parler ?,22.54,0
+454,organic,high,je veux commencer rapidement,97.66,0
+455,organic,medium,ça coûte combien ?,7.84,0
+456,facebook_ads,high,prix et dispo ?,33.46,1
+457,facebook_ads,medium,comment ça marche ?,1.79,0
+458,facebook_ads,low,info stp,12.45,0
+459,referral,medium,ça coûte combien ?,85.52,0
+460,organic,medium,comment ça marche ?,26.57,0
+461,referral,low,curieux,16.81,0
+462,facebook_ads,medium,ça coûte combien ?,9.19,1
+463,google_ads,medium,comment ça marche ?,34.31,0
+464,instagram,high,prix et dispo ?,232.09,0
+465,facebook_ads,medium,plus d'infos,22.69,1
+466,instagram,low,je regarde juste,108.86,0
+467,instagram,medium,comment ça marche ?,14.56,0
+468,facebook_ads,medium,comment ça marche ?,63.53,0
+469,referral,medium,ça coûte combien ?,3.65,0
+470,instagram,high,je suis intéressé on peut parler ?,49.32,1
+471,google_ads,medium,comment ça marche ?,47.47,0
+472,organic,low,je regarde juste,2.58,0
+473,organic,low,je regarde juste,20.74,0
+474,instagram,high,je veux commencer rapidement,197.5,0
+475,facebook_ads,high,je suis intéressé on peut parler ?,123.7,1
+476,instagram,medium,comment ça marche ?,16.62,1
+477,google_ads,low,info stp,4.63,0
+478,instagram,medium,ça coûte combien ?,139.92,0
+479,instagram,medium,comment ça marche ?,270.75,0
+480,google_ads,high,prix et dispo ?,33.64,1
+481,instagram,medium,comment ça marche ?,3.95,0
+482,google_ads,low,je regarde juste,44.7,1
+483,referral,low,je regarde juste,1.53,0
+484,facebook_ads,high,prix et dispo ?,89.2,0
+485,referral,medium,comment ça marche ?,59.87,0
+486,instagram,low,info stp,8.47,0
+487,instagram,high,prix et dispo ?,19.01,0
+488,organic,low,curieux,4.41,0
+489,google_ads,medium,plus d'infos,142.76,0
+490,google_ads,medium,comment ça marche ?,39.47,1
+491,instagram,low,je regarde juste,43.61,1
+492,facebook_ads,low,info stp,111.44,0
+493,google_ads,medium,plus d'infos,30.33,1
+494,facebook_ads,high,je veux commencer rapidement,57.59,1
+495,facebook_ads,medium,comment ça marche ?,1.81,0
+496,facebook_ads,medium,ça coûte combien ?,19.27,0
+497,google_ads,medium,comment ça marche ?,75.11,0
+498,facebook_ads,high,je suis intéressé on peut parler ?,184.79,0
+499,referral,low,curieux,17.87,1
+500,instagram,medium,plus d'infos,65.67,0
